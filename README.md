@@ -1,2 +1,2 @@
 # Intro_FrontEnd
-Actividades de introducción a Requerimientos
+Actividades de introducción a FrontEnd
